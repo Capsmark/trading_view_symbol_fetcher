@@ -1,2 +1,2 @@
-# trading_view_symbol_fetcher
+# TradingView Symbol Price Fetcher
 This is a scraping tool to get symbols data since the API is not provided yet
